@@ -1,4 +1,4 @@
-one function - i have written a very important function.
+one function - i have written a tant function.
 
 added a chart function in our branch.
 
