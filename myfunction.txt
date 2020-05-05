@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 one function - i have written a very very important function.
 
 added a chart function in our branch.
 added a code for logout
+=======
+one function - i have written a tant function.
+
+added a chart function in our branch.
+
+adding a new login function via  x method.
+>>>>>>> confly
